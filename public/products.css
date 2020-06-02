@@ -1,0 +1,145 @@
+body{
+    background-color: lightgreen;
+}
+.ab{
+    width:200px;
+           height:50px;
+           border-radius: 5px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           box-shadow: 5px 5px 5px grey;
+           
+}
+        h1{
+            font-family :Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-align: center;
+            font-size: 60px;
+           text-shadow: 2px 2px lightgreen;
+            background-color:white;
+            font-style: italic;
+       
+     
+       
+        }
+        .addtocart{
+           width:200px;
+           height:50px;
+           border-radius: 5px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           box-shadow: 5px 5px 5px grey;
+        }
+
+      
+        .a{
+            margin-top: 40px;
+            width:33.33%;
+            float:left;
+        }
+        ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+  
+}
+.ab{
+    color:black;
+    width:15%;
+    
+}
+
+img{
+    width:50px;
+    height:50px;
+} 
+.productimage{
+       display:block;
+       margin-left:auto;
+       margin-right:auto;
+       width:20%;
+       height:20%;
+    
+}   
+.producttitle {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 3em;
+    color: #333;
+    margin-bottom: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.productdetails {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+.productprice {
+    flex-grow: 1;
+    color: #333;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 8.2%;
+}
+.items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.header {
+    font-weight: bold;
+    font-size: 1.25em;
+    color: #333;
+}
+
+.column {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px dashed black;
+    margin-right: 1.5em;
+    padding-bottom: 10px;
+    margin-top: 10px;
+}
+
+.row {
+    display: flex;
+}
+
+.cart-item {
+    width: 45%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.cart-price {
+    width: 20%;
+    font-size: 1.2em;
+    color: #333;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.cart-quantity {
+    width: 35%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+.cart-item-title {
+    color: #333;
+    margin-left: .5em;
+    font-size: 1.2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.cart-item-image {
+    width: 75px;
+    height: auto;
+    border-radius: 50%;
+}
+.btn-purchase{
+    align-content: center;
+}
+
+
+       
